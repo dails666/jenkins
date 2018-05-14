@@ -19,13 +19,6 @@ FILE_DIR = os.path.join(PRO_DIR, "report")
 
 
 
-    # 查询单家门店上日来客数
-
-    # 查询单家门店上日客单价
-
-    # 查询单家门店月至今库存周转天数
-
-    # 查询企业日报
 
     # 查询企业月报
 def creatsuite():
