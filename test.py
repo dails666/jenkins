@@ -1,7 +1,4 @@
 # _*_ coding:utf-8 _*_
-#from templates.items_should_not_sell_with_stock import should_not_sell
-#from templates.items_should_sell_not_sell import should_sell_not_sell
-#from templates.items_should_sell_out_of_stock import should_sell_out_of_stock
 from common.ep_showcode import *
 from common import HTMLTestRunner
 from common.sql_connect import *
